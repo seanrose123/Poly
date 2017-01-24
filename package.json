@@ -1,0 +1,25 @@
+{
+  "name": "poly",
+  "version": "1.0.0",
+  "description": "There once was a man named Sean. He was triggered always. The end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanrose123/Poly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanrose123/Poly/issues"
+  },
+  "homepage": "https://github.com/seanrose123/Poly#readme",
+  "dependencies": {
+    "ohm-js": "^0.12.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
